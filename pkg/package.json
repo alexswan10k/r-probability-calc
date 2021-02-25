@@ -1,0 +1,15 @@
+{
+  "name": "probability-calc",
+  "collaborators": [
+    "Alex Swan <alexswan10k@gmail.com>"
+  ],
+  "version": "0.0.1",
+  "files": [
+    "probability_calc_bg.wasm",
+    "probability_calc.js",
+    "probability_calc.d.ts"
+  ],
+  "module": "probability_calc.js",
+  "types": "probability_calc.d.ts",
+  "sideEffects": false
+}
